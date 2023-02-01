@@ -1,0 +1,18 @@
+{
+	"new_pass":"nové heslo: ",
+	"pass_not_strong_enough":"heslo není dostatečně silné \nheslo musí být delší než 8 charakterů a musí splňovat 3 z těchto podmínek: \n1 velké písmeno\n1 malé písmeno\n1 číslo\n1 speciální character",
+	"repeat_pass":"heslo znovu: ",
+	"pass_changed":"vaše heslo bylo změněno",
+	"different_pass":"hesla se neshodují",
+	"login_statement":"heslo je zprávně, přihlášeno",
+	"change_pass_question":"změnit heslo?",
+	"code_sent":"ověřovací kód (poslán na adresu {}): ",
+	"code_wrong":"špatně zadaný kód",
+	"email":"email: ",
+	"email_wrong":"špatně zadaná emailová adresa",
+	"pass":"heslo: ",
+	"pass_wrong":"zadané heslo je špatně, chete ho resetovat?",
+	"account_created":"váš účet byl vytvořen",
+	"username":"jméno: ",
+	"username_doesnt_exist":"toto uživatelské jméno neexistuje, chcete ho vytvořit?"
+}

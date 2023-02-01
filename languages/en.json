@@ -1,0 +1,18 @@
+{
+	"new_pass":"new password: ",
+	"pass_not_strong_enough":"password is not secure enough \npassword must be longer than 8 symbols and fulfill three of these conditions: \n1 uppercase letter\n1 lowercase letter\n1 number\n1 special character",
+	"repeat_pass":"repeat password: ",
+	"pass_changed":"your password has been changed",
+	"different_pass":"passwords do not match",
+	"login_statement":"password is correct, you are logged in",
+	"change_pass_question":"do you want to change your password?",
+	"code_sent":"verification code (sent to email adress: {}): ",
+	"code_wrong":"incorrect code",
+	"email":"email: ",
+	"email_wrong":"incorrect email adress",
+	"pass":"password: ",
+	"pass_wrong":"your password is incorrect. Would you like to reset it?",
+	"account_created":"your account has been created",
+	"username":"username: ",
+	"username_doesnt_exist":"that username does not exist. would you like to create it?"
+}
